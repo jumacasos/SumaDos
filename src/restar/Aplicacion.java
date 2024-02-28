@@ -27,6 +27,10 @@ public class Aplicacion {
 
                     resta = num1 - num2;
 
+                    //pruba
+                    //
+                    //
+
                     lblResultado.setText("La resta de " + num1 + " menos " + num2 + " es: " + resta);
                 }
                 else{
