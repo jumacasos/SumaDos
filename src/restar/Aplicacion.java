@@ -27,11 +27,11 @@ public class Aplicacion {
 
                     resta = num1 - num2;
 
-                    //pruba kk
+                    //pruba kkss
                     //
                     //
 
-                    lblResultado.setText("La resta de " + num1 + " menos " + num2 + " es: " + resta);
+                    lblResultado.setText("La resta de los números " + num1 + " menos " + num2 + " es: " + resta);
                 }
                 else{
                     resta = num2 - num1;
